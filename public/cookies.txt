@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	__cf_bm	o80NYwDy83R4Jx0Nim3bY2T63CZN_dp9Tar9rVY_eQ8-1734567238-1.0.1.1-1U67M4FwklLh7BeCDsp3ADMAA1TbxiQ2VFEMSZupt8YchnysZiVH88QoxMM6suONwi2ZdVJbyiHvvVtyT7hfhQ
+.prod.website-files.com	TRUE	/	FALSE	1999999999	__cf_bm	DJ.UQwQYhHtGw55PkNU1Uoatbl39LO7yN_3HJikrsbg-1734567238-1.0.1.1-wBCBFHp2o19LuR8X3mOL.KlLYZoIH.2mtxE2cQWjSL3TU52r7KP4BdRiABPsRXWuXeUK4dOMGKLwZ52WDiV94w
+cdn.prod.website-files.com	TRUE	/	FALSE	1999999999	SameSite	None
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	mc6WSrNx3pQ9I0BKKBN9L_6Sqov5MibpirI2MALTyg4-1734567320593-0.0.1.1-604800000
+www.carlgordonmedia.com	TRUE	/	FALSE	1999999999	SameSite	None
+
